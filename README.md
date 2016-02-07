@@ -1,10 +1,12 @@
+<center>
 <h2>The</h2>
-<img src="logo.png">
+<img src="http://ejanaox.com/asklinkedin/logo.png" style="width: 100%">
 <h3>For Chrome</h3>
+</center>
 <p>
 Ask LinkedIn anything, any time, anywhere, with the AskLinkedin Toolbar.<br><br>
 (P.S. Any software engineers out there wanna talk bundling deals?)<br>
-<img src="preview.png">
+<img src="http://ejanaox.com/asklinkedin/preview.png" style="width: 100%">
 <br>
 <p>
 How to install:
