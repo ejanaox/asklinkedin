@@ -1,0 +1,21 @@
+{
+  "name": "The AskLinkedin Toolbar",
+  "author": "Owen Weeks",
+  "homepage_url": "http://ejanaox.com/linkedin-toolbar",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Perform a search query on LinkedIn, any time, anywhere, with the AskLinkedin Toolbar.",
+
+  "browser_action": {
+    "name": "LoadAskLinkedin",
+    "icons": ["icon.png"],
+    "default_icon": "icon.png"
+  },
+  "background": {
+    "page": "background.html"
+  },
+  "content_scripts": [ {
+    "js": [ "jquery.min.js", "background.js" ],
+    "matches": [ "http://*/*", "https://*/*"]
+  }]
+}
