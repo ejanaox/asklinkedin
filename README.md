@@ -2,13 +2,8 @@
 <h3>For Chrome</h3>
 <p>
 Perform a search query on LinkedIn, any time, anywhere, with the AskLinkedin Toolbar.<br>
-<img src="preview.png">
+<img src="http://ejanaox.com/asklinkedin/preview.png">
 </p>
-<p style="text-align: center">
-<a href="https://github.com/ejanaox/asklinkedin/archive/master.zip" target="_blank">Download extension from GitHub</a><br>
-<small><a href="https://github.com/ejanaox/asklinkedin/" target="_blank">View project on GitHub</a></small>
-</p>
-<br>
 <p>
 How to install:
 <ol>
