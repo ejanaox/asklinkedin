@@ -1,9 +1,11 @@
-<h2>The AskLinkedin Toolbar</h2>
+<h2>The</h2>
+<img src="logo.png">
 <h3>For Chrome</h3>
 <p>
-Perform a search query on LinkedIn, any time, anywhere, with the AskLinkedin Toolbar.<br>
-<img src="http://ejanaox.com/asklinkedin/preview.png">
-</p>
+Ask LinkedIn anything, any time, anywhere, with the AskLinkedin Toolbar.<br><br>
+(P.S. Any software engineers out there wanna talk bundling deals?)<br>
+<img src="preview.png">
+<br>
 <p>
 How to install:
 <ol>
@@ -16,4 +18,3 @@ How to install:
 	<li>Refresh your tabs. Enjoy.</li>
 </ol>
 </p>
-<br>
