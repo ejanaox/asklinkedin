@@ -4,7 +4,7 @@ thebar.setAttribute("style","position: fixed; width: 100%; top:0; right:0; left:
 
 var logo = document.createElement("img");
 logo.src = "http://ejanaox.com/asklinkedin/logo.png";
-logo.setAttribute("style","display:inline-block; vertical-align: middle");
+logo.setAttribute("style","display:inline-block; vertical-align: middle; width: 340px; height: 58px; ");
 
 var form = document.createElement("form");
 form.setAttribute("id","frm");
